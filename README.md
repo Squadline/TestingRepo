@@ -4,3 +4,4 @@ Dana Kimball,
 Louis Leung, 
 Jimmy Quach,
 Trevor Juanitas
+Alec Avedisian
