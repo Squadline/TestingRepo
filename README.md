@@ -6,3 +6,4 @@ Jimmy Quach,
 Trevor Juanitas
 Alec Avedisian
 Byunggwan Lim
+Joshua Cheung
