@@ -7,5 +7,5 @@ Trevor Juanitas
 Alec Avedisian         
 Byunggwan Lim          
 Joshua Cheung         
-MICHAEL SHUM 
+MICHAEL SHUM         
 Darren Yang
